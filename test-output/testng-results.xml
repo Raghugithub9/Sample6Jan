@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="249" started-at="2023-12-17T12:02:07 EST" finished-at="2023-12-17T12:02:07 EST">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="249" started-at="2023-12-17T12:02:07 EST" finished-at="2023-12-17T12:02:07 EST">
+      <class name="TestNG.SampleTestNG2">
+        <test-method status="PASS" signature="testbeforesuite()[pri:0, instance:TestNG.SampleTestNG2@1f57539]" name="testbeforesuite" is-config="true" duration-ms="18" started-at="2023-12-17T12:02:07 EST" finished-at="2023-12-17T12:02:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testbeforesuite -->
+        <test-method status="PASS" signature="testbeforetest()[pri:0, instance:TestNG.SampleTestNG2@1f57539]" name="testbeforetest" is-config="true" duration-ms="1" started-at="2023-12-17T12:02:07 EST" finished-at="2023-12-17T12:02:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testbeforetest -->
+        <test-method status="PASS" signature="testbeforeclass()[pri:0, instance:TestNG.SampleTestNG2@1f57539]" name="testbeforeclass" is-config="true" duration-ms="1" started-at="2023-12-17T12:02:07 EST" finished-at="2023-12-17T12:02:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testbeforeclass -->
+        <test-method status="PASS" signature="testbeforemethod()[pri:0, instance:TestNG.SampleTestNG2@1f57539]" name="testbeforemethod" is-config="true" duration-ms="0" started-at="2023-12-17T12:02:07 EST" finished-at="2023-12-17T12:02:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testbeforemethod -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:TestNG.SampleTestNG2@1f57539]" name="testcase1" duration-ms="36" started-at="2023-12-17T12:02:07 EST" description="This is my Test Case1 Method" finished-at="2023-12-17T12:02:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="testaftermethod()[pri:0, instance:TestNG.SampleTestNG2@1f57539]" name="testaftermethod" is-config="true" duration-ms="5" started-at="2023-12-17T12:02:07 EST" finished-at="2023-12-17T12:02:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testaftermethod -->
+        <test-method status="PASS" signature="testbeforemethod()[pri:0, instance:TestNG.SampleTestNG2@1f57539]" name="testbeforemethod" is-config="true" duration-ms="2" started-at="2023-12-17T12:02:07 EST" finished-at="2023-12-17T12:02:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testbeforemethod -->
+        <test-method status="PASS" signature="testcase3()[pri:0, instance:TestNG.SampleTestNG2@1f57539]" name="testcase3" duration-ms="13" started-at="2023-12-17T12:02:07 EST" finished-at="2023-12-17T12:02:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method status="PASS" signature="testaftermethod()[pri:0, instance:TestNG.SampleTestNG2@1f57539]" name="testaftermethod" is-config="true" duration-ms="1" started-at="2023-12-17T12:02:07 EST" finished-at="2023-12-17T12:02:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testaftermethod -->
+        <test-method status="PASS" signature="testafterclass()[pri:0, instance:TestNG.SampleTestNG2@1f57539]" name="testafterclass" is-config="true" duration-ms="1" started-at="2023-12-17T12:02:07 EST" finished-at="2023-12-17T12:02:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testafterclass -->
+        <test-method status="PASS" signature="testaftertest()[pri:0, instance:TestNG.SampleTestNG2@1f57539]" name="testaftertest" is-config="true" duration-ms="2" started-at="2023-12-17T12:02:07 EST" finished-at="2023-12-17T12:02:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testaftertest -->
+        <test-method status="PASS" signature="testaftersuite()[pri:0, instance:TestNG.SampleTestNG2@1f57539]" name="testaftersuite" is-config="true" duration-ms="1" started-at="2023-12-17T12:02:08 EST" finished-at="2023-12-17T12:02:08 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testaftersuite -->
+      </class> <!-- TestNG.SampleTestNG2 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
